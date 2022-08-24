@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad60189f-8297-4d59-9a29-f6c5bf0b8bdc" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="22a3E7PrZeSZFxdOKRSsai0hGrk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Joki/Projek CRUD Audio Image/Review1_Kel001/Review1_Kel001" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.ManagerApp">
+    <configuration name="ManagerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManagerApp" />
+      <module name="JavaOOp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ReadApp" />
+      <module name="JavaOOp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReflectionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.ReflectionApp" />
+      <module name="JavaOOp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackTraceApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programmer.zaman.now.application.StackTraceApp" />
+      <module name="JavaOOp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="programmer.zaman.now.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Data.UtilSort" />
+      <module name="JavaOOp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Data.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ManagerApp" />
+        <item itemvalue="Application.UtilSort" />
+        <item itemvalue="Application.ReadApp" />
+        <item itemvalue="Application.ReflectionApp" />
+        <item itemvalue="Application.StackTraceApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad60189f-8297-4d59-9a29-f6c5bf0b8bdc" name="Changes" comment="" />
+      <created>1640061756807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640061756807</updated>
+      <workItem from="1640061758993" duration="6714000" />
+      <workItem from="1640087320095" duration="4887000" />
+      <workItem from="1640131427223" duration="2621000" />
+      <workItem from="1640145397364" duration="851000" />
+      <workItem from="1640150954616" duration="4354000" />
+      <workItem from="1640155836211" duration="1687000" />
+      <workItem from="1642732280722" duration="12215000" />
+      <workItem from="1643013971554" duration="2703000" />
+      <workItem from="1643106780247" duration="6612000" />
+      <workItem from="1643162278707" duration="11889000" />
+      <workItem from="1643246349471" duration="5372000" />
+      <workItem from="1643769347543" duration="1223000" />
+      <workItem from="1643807194456" duration="1758000" />
+      <workItem from="1643955707964" duration="595000" />
+      <workItem from="1643961027400" duration="600000" />
+      <workItem from="1644032250024" duration="1229000" />
+      <workItem from="1644536103120" duration="1125000" />
+      <workItem from="1644541416921" duration="12000" />
+      <workItem from="1645538890626" duration="11000" />
+      <workItem from="1645542293782" duration="193000" />
+      <workItem from="1645787352921" duration="93000" />
+      <workItem from="1645787617418" duration="1567000" />
+      <workItem from="1645947070943" duration="591000" />
+      <workItem from="1645975528463" duration="589000" />
+      <workItem from="1646448326972" duration="608000" />
+      <workItem from="1646733039625" duration="27000" />
+      <workItem from="1646899947628" duration="1176000" />
+      <workItem from="1646906168753" duration="587000" />
+      <workItem from="1646924019276" duration="1390000" />
+      <workItem from="1646925684486" duration="591000" />
+      <workItem from="1647149315997" duration="201000" />
+      <workItem from="1647162724759" duration="31000" />
+      <workItem from="1648468945747" duration="11000" />
+      <workItem from="1648733423496" duration="112000" />
+      <workItem from="1648787651136" duration="594000" />
+      <workItem from="1648804099676" duration="420000" />
+      <workItem from="1649067175512" duration="1000" />
+      <workItem from="1649169001791" duration="74000" />
+      <workItem from="1649488926486" duration="618000" />
+      <workItem from="1659407569817" duration="600000" />
+      <workItem from="1659436397822" duration="1183000" />
+      <workItem from="1659758193352" duration="816000" />
+      <workItem from="1660096772984" duration="4944000" />
+      <workItem from="1661220667443" duration="590000" />
+      <workItem from="1661322875434" duration="678000" />
+      <workItem from="1661325171500" duration="425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
